@@ -1,6 +1,6 @@
-NOMBRE: [Tu Nombre]
+NOMBRE: Axel Ricardo Preciado Franco
 
-EXPEDIENTE: [Tu Expediente]
+EXPEDIENTE: 22521255
 
 # Práctica guiada: Logging en Java con `java.util.logging`
 
