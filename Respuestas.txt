@@ -1,0 +1,45 @@
+NOMBRE: Axel Preciado
+EXPEDIENTE: 225212155
+
+ACTIVIDAD GUIADA 1
+
+1. El Logger muestra fecha, hora, clase, método, nivel y mensaje.
+2. Sí, aparece la fecha y la hora.
+3. Sí, aparece el nombre de la clase.
+4. Sí, aparece el nivel del mensaje.
+5. Logger proporciona más información para diagnosticar un problema.
+
+CLASIFICACIÓN DE MENSAJES
+
+La aplicación inicia correctamente: INFO
+No existe el archivo solicitado: SEVERE
+Se procesaron 250 registros: INFO
+Se encontró una calificación inválida: WARNING
+Se cargó application.properties: CONFIG
+Se desea conocer el valor de una variable durante depuración: FINE
+La aplicación no puede continuar: SEVERE
+
+TABLA DE FILTRADO POR NIVELES
+
+Configuración | SEVERE | WARNING | INFO | FINE
+SEVERE        | Sí     | No      | No   | No
+WARNING       | Sí     | Sí      | No   | No
+INFO          | Sí     | Sí      | Sí   | No
+FINE          | Sí     | Sí      | Sí   | Sí
+ALL           | Sí     | Sí      | Sí   | Sí
+
+COMPARACIÓN ENTRE XML Y TEXTO
+
+Característica                          | XML | Texto
+Fácil de leer por una persona           | No  | Sí
+Fácil de procesar automáticamente        | Sí  | No
+Estructura explícita                     | Sí  | No
+Tamaño más compacto                      | No  | Sí
+Adecuado para inspección rápida          | No  | Sí
+
+DIFERENCIAS ENTRE LOS COMPONENTES
+
+Logger: recibe y genera los mensajes de la bitácora.
+Handler: dirige los mensajes hacia un destino, como la consola o un archivo.
+Level: indica la importancia del mensaje y permite filtrarlo.
+Formatter: define la forma en que se presentan los registros.

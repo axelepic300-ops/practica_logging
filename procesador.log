@@ -1,0 +1,48 @@
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones main
+INFO: Inicio de la aplicación
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones main
+CONFIG: Archivo configurado: calificaciones.txt
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Archivo abierto correctamente
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando línea 1: 90
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificación válida: 90
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando línea 2: 75
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificación válida: 75
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando línea 3: 100
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificación válida: 100
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando línea 4: ochenta
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+WARNING: Dato no numérico: ochenta
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando línea 5: -5
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+WARNING: Valor fuera de rango: -5
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando línea 6: 110
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+WARNING: Valor fuera de rango: 110
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando línea 7: 85
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificación válida: 85
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando línea 8: 95
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificación válida: 95
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+INFO: Registros procesados: 8
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+INFO: Registros válidos: 5
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+INFO: Registros inválidos: 3
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones procesarArchivo
+INFO: Promedio calculado: 89.0
+Sep 10, 2026 7:24:05 AM mx.unison.ProcesadorCalificaciones main
+INFO: Fin de la aplicación
